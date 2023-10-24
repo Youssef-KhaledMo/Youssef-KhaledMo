@@ -59,13 +59,12 @@ I built a micro-computer using the 8086 microprocessor, gaining insights into co
 I have developed a C++ console application used to manage client data for a cafe.
 
 ## Courses
-
-- [ALX Software Engineering, ALX Africa](https://alx.com/)
-- [Machine Learning Specialization (3 courses), Coursera](https://www.coursera.org/specializations/machine-learning)
-- [Python for Data Science and Machine Learning, Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- [Algorithms, Part I, Coursera](https://www.coursera.org/learn/algorithms-part1)
-- Cloud Computing and Storage Internship, NTI
-- [Python Programming Basics, Mahara Teck](https://maharateck.com/)
+- Embedded Systems AVR, ITI
+- Machine Learning Specialization (3 courses), Coursera
+- Python for Data Science and Machine Learning, Udemy
+- Algorithms, Part I, Coursera
+- Applied Deep Learning, Mahara Teck
+- Python Programming Basics, Mahara Teck
 
 Feel free to explore my repositories to see more of my work!
 
