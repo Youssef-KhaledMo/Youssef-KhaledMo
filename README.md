@@ -67,12 +67,12 @@ I built a micro-computer using the 8086 microprocessor, gaining insights into co
 I have developed a C++ console application used to manage client data for a cafe.
 
 ## Courses
-- Embedded Systems AVR, ITI
-- Machine Learning Specialization (3 courses), Coursera
-- Python for Data Science and Machine Learning, Udemy
-- Algorithms, Part I, Coursera
-- Applied Deep Learning, Mahara Teck
-- Python Programming Basics, Mahara Teck
+-	Machine Learning specialization (3 courses) on Coursera
+-	Applied Deep Learning at Mahara Teck
+-	Python for Data Science and Machine Learning on Udemy
+-	Algorithms, Part I on Coursera
+-	Embedded Systems AVR at ITI
+-	Python Programing Basics at Mahara Teck
 
 ## TRAINING
 -	Digital Egypt Pioneers Initiative (DEPI) Machine Learning Track (In Progress)
