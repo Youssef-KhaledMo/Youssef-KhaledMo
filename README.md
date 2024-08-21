@@ -1,7 +1,7 @@
 
 # Youssef Khaled Mohamed
 
-👨‍💻 Machine Learning Engineer | 📧 Youssef.khaled.25@h-eng.helwan.edu.eg | 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-khaled-m/) | [GitHub](https://github.com/Youssef-KhaledMo)
+👨‍💻 Machine Learning Engineer | 📧 yousefalmoqadem@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-khaled-m/) | [GitHub](https://github.com/Youssef-KhaledMo)
 
 ## About Me
 
@@ -9,30 +9,36 @@ I'm a passionate Machine Learning Engineer with a strong Computer Science and En
 
 ## Education
 
-- Bachelor of Engineering, Faculty of Engineering, Helwan University (Expected Graduation: June 2024)
+- Bachelor of Engineering, Helwan University
+Graduation: June 2024 | Overall Rating: Very Good
+
 - Relevant coursework: Machine Learning, Software Engineering, Data Structure and Algorithms, Operating System, Programming Packages (Java), Microprocessor and microcontroller (Embedded Systems), C++ Programming Language, Computer Architecture, and Database (MySQL).
 
 ## Skills
 
-- Machine Learning models
-- Scikit-Learn
-- Tensor Flow
-- Python
-- Problem Solving
-- Data Structure & Algorithms
-- Embedded C
-- JavaFX & SceneBuilder
-- Unit Testing (JUnit)
-- Database (MySQL)
-- Git/GitHub
-- Design Patterns
-- Object-Oriented Programming (OOP)
-- Embedded Systems (AVR)
-- Software Engineering
-- C++
-- Requirement Engineering
+•	Scikit-Learn, TensorFlow
+•	OpenCV
+•	Problem Solving
+•	Data Structures & Algorithms
+•	Unit Testing: JUnit
+•	Database: MySQL
+•	Version Control: Git/GitHub
+•	Design Patterns
+•	Object-Oriented Programming (OOP)
+•	Embedded Systems (AVR)
+•	Software Engineering
+•	Programming Languages: Python, C++, Embedded C, Java, JavaFX 
 
 ## Projects
+### Enhanced DriveGuard (EDG) System (June 2023 - July 2024)
+Developed the EDG system as a graduation project with mentorship from Valeo. The system is an innovative safety solution designed to mitigate human error and enhance driving safety.
+Awards:
+•	1st Place: "Made in Egypt" (MIE) competition among 300+ projects.
+•	3rd Place: Valeo Mentorship Program among 511 projects.
+Key components:
+•	Reckless Behavior Detection Model: Utilized LSTM sequence model in CARLA simulation to detect reckless driving behavior.
+•	Authorization and Drowsiness Detection: Implemented computer vision models in a camera module to detect unauthorized access and driver drowsiness.
+
 
 ### Voice Assistant (July 2023)
 
@@ -65,6 +71,10 @@ I have developed a C++ console application used to manage client data for a cafe
 - Algorithms, Part I, Coursera
 - Applied Deep Learning, Mahara Teck
 - Python Programming Basics, Mahara Teck
+
+## TRAINING
+-	Digital Egypt Pioneers Initiative (DEPI) Machine Learning Track (In Progress)
+
 
 Feel free to explore my repositories to see more of my work!
 
