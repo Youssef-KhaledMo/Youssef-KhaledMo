@@ -35,6 +35,7 @@ Developed the EDG system as a graduation project with mentorship from Valeo. The
 Awards:
 -	1st Place: "Made in Egypt" (MIE) competition among 300+ projects.
 -	3rd Place: Valeo Mentorship Program among 511 projects.
+
 Key components:
 -	Reckless Behavior Detection Model: Utilized LSTM sequence model in CARLA simulation to detect reckless driving behavior.
 -	Authorization and Drowsiness Detection: Implemented computer vision models in a camera module to detect unauthorized access and driver drowsiness.
