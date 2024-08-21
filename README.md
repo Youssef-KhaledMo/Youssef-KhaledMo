@@ -32,6 +32,7 @@ Graduation: June 2024 | Overall Rating: Very Good
 ## Projects
 ### Enhanced DriveGuard (EDG) System (June 2023 - July 2024)
 Developed the EDG system as a graduation project with mentorship from Valeo. The system is an innovative safety solution designed to mitigate human error and enhance driving safety.
+
 Awards:
 -	1st Place: "Made in Egypt" (MIE) competition among 300+ projects.
 -	3rd Place: Valeo Mentorship Program among 511 projects.
