@@ -1,7 +1,7 @@
 
 # Youssef Khaled Mohamed
 
-👨‍💻 Machine Learning Engineer | 📧 yousefalmoqadem@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-khaled-m/) | [GitHub](https://github.com/Youssef-KhaledMo)
+👨‍💻 Machine Learning Engineer | 📧 yousefalmoqadem@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-khaled-mohamed/) | [GitHub](https://github.com/Youssef-KhaledMo)
 
 ## About Me
 
